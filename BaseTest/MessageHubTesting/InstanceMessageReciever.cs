@@ -7,6 +7,7 @@ using HEC.MVVMFramework.Base.Interfaces;
 
 namespace BaseTest.MessageHubTesting
 {
+    //This comment should be deleted later and not pushed to main. 
     internal class InstanceMessageReciever : IRecieveInstanceMessages
     {
         private List<int> _instanceHash;
